@@ -1,0 +1,129 @@
+body {
+    background-color: rgb(140, 228, 113);
+}
+*{
+    margin: 0%;
+}
+.fifa {
+    text-align: center;
+    text-size-adjust: 50%;
+    margin-top: 1px;
+}
+
+.fifa22 {
+    text-align: center;
+    font-size: 50px;
+    font-family:dubai;
+    height: 180px;
+    width: 240px;
+    position: sticky;
+}
+
+.gta {
+    text-align: center;
+    text-size-adjust: 100%;
+    margin-top: 10px;
+}
+
+.gtaa {
+    text-align: center;
+    font-size: 50px;
+    font-family:dubai;
+    height: 80px;
+    width: 490px;
+    position: relative;
+}
+
+.cdd {
+    text-align: center;
+    font-size: 50px;
+    font-family:dubai;
+    height: 80px;
+    width: 320px;
+    position: relative;
+
+}
+
+.callofdutyy {
+    text-align: center;
+    text-size-adjust: 100%;
+    margin-top: 10px;
+}
+
+.fortnitex {
+    text-align: center;
+    font-size: 50px;
+    font-family:dubai;
+    height: 75px;
+    width: 250px;
+    position: relative;
+}
+
+.fortnite {
+    text-align: center;
+    text-size-adjust: 100%;
+    margin-top: 10px;
+}
+
+.pubgx {
+    text-align: center;
+    font-size: 50px;
+    font-family:dubai;
+    height: 80px;
+    width: 190px;
+    position: relative;
+}
+
+.pubg {
+    text-align: center;
+    text-size-adjust: 100%;
+    margin-top: 10px;
+}
+.hoverEffect{
+	font-family: dubai;
+	text-align: center;
+	margin-top: 1rem;
+}
+.hoverEffect:hover{
+    color: rgb(121, 254, 236);
+    background: #000;
+    transition: all .3s;
+    transform: scale(1.2);
+}
+
+#heading:hover{
+    color: rgb(121, 254, 236);
+    background: #000;
+    transition: all .3s;
+    transform: scale(1.2);
+	
+}
+.navBar{
+	background: #000;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 10vh;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+	padding: .5rem;
+}
+.navBar:hover{
+	background: rgb(5, 105, 72);
+	transition: all .3s ;
+}
+a:hover {
+	color: rgb(121, 254, 236);
+	transition: all .3s;
+	background: #000;
+	transform: scale(1.5);
+	border-radius: 12px;
+}
+.Trailer{
+background-color: rgba(0, 0, 0, 0.128);
+text-align: center;
+margin-top: 10px;
+}

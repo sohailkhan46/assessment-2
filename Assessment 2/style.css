@@ -1,0 +1,80 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.mainWrapper{
+	background-image: url(https://th.bing.com/th/id/R.8004a14f41ff15de27aa985baa428a92?rik=llntPAcHNXyrlQ&riu=http%3a%2f%2fimages.unsplash.com%2fphoto-1586182987320-4f376d39d787%3fcrop%3dentropy%26cs%3dtinysrgb%26fit%3dmax%26fm%3djpg%26ixid%3dMnwxMjA3fDB8MXxzZWFyY2h8Mnx8dmlkZW8lMjBnYW1lc3x8MHx8fHwxNjMxNjU1ODQ2%26ixlib%3drb-1.2.1%26q%3d80%26w%3d1080&ehk=y6X2hGJzsFw1aQ8SjCqkn%2fsvCjP1Xd9zN7dwxxtar20%3d&risl=&pid=ImgRaw&r=0);
+	background-repeat: repeat;
+}
+
+.nav {
+	  text-align: center;
+		color: rgb(6, 8, 8);
+		font-family:Arial, Helvetica, sans-serif;
+		font-size: x-large;
+}
+
+
+.fifa{
+	text-align: center;
+	text-size-adjust:50%;
+	margin-top: 5px;
+}
+.fifa22:hover,.game:hover{
+	background: #000;
+	transform: rotate(360deg);
+	transition: all 1s;
+}
+
+.fortnite , .center{
+	text-align: center;
+	text-size-adjust: 100%;
+	margin-top: 10px;
+}
+.fifa22 ,.game{
+	color: aliceblue;
+	font-size: 50px;
+	font-family: dubai;
+	background: rgba(0, 0, 0, 0.176);
+	height: 176px;
+	text-align: center;
+	width: 30%;
+}
+  
+
+.navBar{
+	background: #000;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 10vh;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-family: sans-serif;
+	padding: .5rem;
+}
+.navBar:hover{
+	background: rgb(5, 105, 72);
+	transition: all .3s ;
+}
+a:hover {
+	color: rgb(121, 254, 236);
+	transition: all .3s;
+	background: #000;
+	transform: scale(1.5);
+	border-radius: 12px;
+}
+#heading{
+	font-family: dubai;
+	text-align: center;
+	margin-top: 1rem;
+}
+#heading:hover{
+	color: rgb(121, 254, 236);
+	background: #000;
+	transition: all .3s;
+	transform: scale(1.2);
+	
+}

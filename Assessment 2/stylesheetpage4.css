@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+}
+
+.nav {
+    text-align: center;
+      color: rgb(6, 8, 8);
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: x-large;
+}
+
+.Feedback{
+    background-color: rgba(0, 0, 0, 0.128);
+    text-align: center;
+    margin-top: 10px;
+    }
+/* */
+.fifa22:hover,.game:hover{
+  background: #000;
+  transform: rotate(360deg);
+  transition: all 1s;
+}
+
+.fortnite , .center{
+  text-align: center;
+  text-size-adjust: 100%;
+  margin-top: 10px;
+}
+.fifa22 ,.game{
+  color: aliceblue;
+  font-size: 50px;
+  font-family: dubai;
+  background: rgba(0, 0, 0, 0.176);
+  height: 176px;
+  text-align: center;
+  width: 30%;
+}
+
+
+.navBar{
+  background: #000;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 10vh;
+}
+a{
+  text-decoration: none;
+  color: white;
+  font-family: sans-serif;
+  padding: .5rem;
+}
+.navBar:hover{
+  background: rgb(5, 105, 72);
+  transition: all .3s ;
+}
+a:hover {
+  color: rgb(121, 254, 236);
+  transition: all .3s;
+  background: #000;
+  transform: scale(1.5);
+  border-radius: 12px;
+}
+#heading{
+  font-family: dubai;
+  text-align: center;
+  margin-top: 1rem;
+}
+#heading:hover{
+  color: rgb(121, 254, 236);
+  background: #000;
+  transition: all .3s;
+  transform: scale(1.2);
+  
+}
+
+#paragraph{
+  background: #000;
+  color: white;
+  padding: 22px;
+  font-family: sans-serif;
+  line-height: 27px;
+}
+.gta>img{
+  height:700px ;
+  width:700px;
+}
+.gta{
+  text-align: center;
+  
+}
+.head{
+  padding: 20px;
+}
+.imag{
+  
+  text-align: center;
+}
+.hoverEffect{
+	font-family: dubai;
+	text-align: center;
+	margin-top: 1rem;
+}
+.hoverEffect:hover {
+    color: rgb(121, 254, 236);
+    background: #000;
+    transition: all .3s;
+    transform: scale(1.2);
+}
